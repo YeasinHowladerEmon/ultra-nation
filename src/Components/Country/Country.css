@@ -1,0 +1,8 @@
+.country-edit img{
+  width:50%;
+}
+.country-edit{
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+}
